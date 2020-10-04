@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T17:43:00.228Z" agent="5.0 (X11)" etag="gfN1m8rg2XAA5J5vEO7I" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T17:43:20.636Z" agent="5.0 (X11)" etag="AsJckmr9beUcopYGtZt3" version="13.7.7" type="github">
   <diagram id="1TLgJJZaeOaR_Wd8QN8c" name="Page-1">
     <mxGraphModel dx="1383" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry x="310" y="429" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hnMYHh887KvoQdc2plN0-82" value="Legend" style="swimlane;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="590" width="200" height="310" as="geometry" />
+          <mxGeometry x="40" y="514" width="200" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hnMYHh887KvoQdc2plN0-83" value="&lt;div&gt;Uploading &lt;br&gt;&lt;/div&gt;&lt;div&gt;picture workflow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="hnMYHh887KvoQdc2plN0-82">
           <mxGeometry x="70" y="40" width="130" height="40" as="geometry" />
