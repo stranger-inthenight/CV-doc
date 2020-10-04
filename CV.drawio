@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T16:31:11.913Z" agent="5.0 (X11)" version="13.7.7" etag="ab_LeDeuhZq4srz-jF5p" type="github"><diagram id="1TLgJJZaeOaR_Wd8QN8c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-04T16:45:25.009Z" agent="5.0 (X11)" etag="YqBghax9CMuWNvNFefbk" version="13.7.7" type="github">
+  <diagram id="1TLgJJZaeOaR_Wd8QN8c" name="Page-1">
+    <mxGraphModel dx="1364" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hnMYHh887KvoQdc2plN0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="hnMYHh887KvoQdc2plN0-14" target="hnMYHh887KvoQdc2plN0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-49" value="&lt;div&gt;picture&lt;/div&gt;&lt;div&gt;request&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="hnMYHh887KvoQdc2plN0-47">
+          <mxGeometry x="-0.2833" y="-1" relative="1" as="geometry">
+            <mxPoint x="17" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-14" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Public API&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=21;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="hnMYHh887KvoQdc2plN0-15" target="hnMYHh887KvoQdc2plN0-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-56" value="CV response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="hnMYHh887KvoQdc2plN0-51">
+          <mxGeometry x="-0.2545" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-15" value="CV service" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-16" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Data &lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;consumer&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="hnMYHh887KvoQdc2plN0-46" target="hnMYHh887KvoQdc2plN0-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-50" value="&lt;div&gt;picture&lt;/div&gt;&lt;div&gt;request&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="hnMYHh887KvoQdc2plN0-48">
+          <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
+            <mxPoint x="44" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="hnMYHh887KvoQdc2plN0-46" target="hnMYHh887KvoQdc2plN0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-57" value="CV response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="hnMYHh887KvoQdc2plN0-52">
+          <mxGeometry x="-0.019" y="2" relative="1" as="geometry">
+            <mxPoint x="-33" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-46" value="Kafka" style="strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=21;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.content_based_router;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=21;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hnMYHh887KvoQdc2plN0-53" target="hnMYHh887KvoQdc2plN0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnMYHh887KvoQdc2plN0-53" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
